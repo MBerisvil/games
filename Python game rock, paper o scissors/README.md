@@ -1,11 +1,25 @@
-## Game of Paper, Rock, Scissors | Juego de Piedra, Papel, Tijera
+## Python Game Rock, Paper, Scissors | Juego de Piedra, Papel, Tijera
 
-English - Welcome to 'Rock, Paper, Scissors'! This addictive game will challenge you to choose an option and beat the machine. 
+¡Enfréntate al desafío clásico: Piedra, Papel o Tijera en Python!
+¿Te atreves a poner a prueba tu suerte y estrategia con el juego más antiguo del mundo? Piedra, Papel o Tijera, un clásico atemporal, llega ahora con una versión renovada en Python. Prepárate para desafiar a tus amigos o a la computadora en emocionantes partidas llenas de suspenso.
 
-Español - ¡Bienvenido a ‘Piedra, Papel o Tijera’! Este adictivo juego  te desafiará a elegir una opción y ganarle a la maquina. 
+¿Cómo funciona el juego?
 
+Las reglas son simples: cada jugador elige en secreto entre Piedra, Papel o Tijera. Al revelar sus elecciones, se determina un ganador de acuerdo a las siguientes reglas:
 
-![Piedra-pequeña](https://github.com/MBerisvil/games/assets/95480927/c306f395-6d03-4c1b-b0cc-c5d6fe3f65fb)
+Piedra: aplasta a Tijera.
+Papel: envuelve a Piedra.
+Tijera: corta Papel.
+¿Qué hace que esta versión sea especial?
+
+Desarrollado en Python: Este juego está programado con el lenguaje de programación Python, lo que te permite aprender y modificar el código a tu gusto.
+Modos de juego: Elige entre el modo clásico contra la computadora o el modo multijugador para desafiar a tus amigos.
+Registro de estadísticas: Lleva un registro de tus victorias, derrotas y empates para analizar tu rendimiento y mejorar tus estrategias.
+Personalización: Modifica las opciones del juego para adaptarlo a tu estilo de juego.
+Código fuente disponible: El código fuente del juego está disponible para que puedas aprender de él y crear tus propias modificaciones.
+¡Descarga el juego y que comience la batalla!
+
+![rockpaperscissors-colour-small](https://github.com/MBerisvil/games/assets/95480927/5784ce1f-f19f-4663-8af2-535fad3e8d61)
 
 
 ### 💻 Tecnología:
